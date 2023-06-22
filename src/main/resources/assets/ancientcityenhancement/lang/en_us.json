@@ -1,4 +1,30 @@
 {
-  "item.ancientcityenhancement.obsidian_lantern": "Obsidian Lantern",
-  "creativemodetab.ancient_tab": "Ancient Tab"
+  "item.ancientcityenhancement.obsidian_lantern":                   "Obsidian Lantern",
+  "item.ancientcityenhancement.polished_obsidian_upgrade_template": "Polished Obsidian Upgrade Template",
+  "item.ancientcityenhancement.polished_obsidian_sword":            "Polished Obsidian Sword",
+  "item.ancientcityenhancement.polished_obsidian_pickaxe":          "Polished Obsidian Pickaxe",
+  "item.ancientcityenhancement.polished_obsidian_hoe":              "Polished Obsidian Hoe",
+  "item.ancientcityenhancement.polished_obsidian_shovel":           "Polished Obsidian Shovel",
+  "item.ancientcityenhancement.polished_obsidian_axe":              "Polished Obsidian Axe",
+  "item.ancientcityenhancement.polished_obsidian_chestplate":       "Polished Obsidian Chestplate",
+  "item.ancientcityenhancement.polished_obsidian_helmet":           "Polished Obsidian Helmet",
+  "item.ancientcityenhancement.polished_obsidian_leggings":         "Polished Obsidian Leggings",
+  "item.ancientcityenhancement.polished_obsidian_boots":            "Polished Obsidian Boots",
+  "item.ancientcityenhancement.potion_of_thorns":                   "Potion of Thorns",
+  "item.ancientcityenhancement.potion_of_poison_resist":            "Potion of Poison Resistance",
+  "item.ancientcityenhancement.bottle_of_skulk_honey":              "Bottle of Skulk Honey",
+  "item.ancientcityenhancement.bottle_of_acid":                     "Bottle of Acid",
+  "item.ancientcityenhancement.bucket_of_acid":                     "Bucket of Acid",
+  "item.ancientcityenhancement.soul_crystal":                       "Sould Crystal",
+  "item.ancientcityenhancement.soul_fungus":                        "Soul Fungus",
+
+  "block.ancientcityenhancement.soul_fungus_block":                 "Soul Fungus Block",
+  "block.ancientcityenhancement.soul_crystal_block":                "Soul Crystal Block",
+  "block.ancientcityenhancement.skulk_chest_block":                 "Skulk Chest Block",
+  "block.ancientcityenhancement.soul_forge_block":                  "Soul Forge Block",
+  "block.ancientcityenhancement.polished_obsidian_block":           "Polished Obsidian Block",
+  "block.ancientcityenhancement.contaminated_soil_block":           "Contaminated Soil Block",
+  "block.ancientcityenhancement.contaminated_sand_block":           "Contaminated Sand Block",
+
+  "creativemodetab.ancient_tab":                                    "Ancient Tab"
 }
